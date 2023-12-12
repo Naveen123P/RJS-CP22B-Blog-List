@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.profile-img {
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+}
+* {
+  font-family: 'Roboto';
+  font-size: medium;
+}
+h1 {
+  color: #12022f;
+  font-size: medium;
+  font-weight: bold;
+}
+p {
+  color: #9aa5b1;
+}
